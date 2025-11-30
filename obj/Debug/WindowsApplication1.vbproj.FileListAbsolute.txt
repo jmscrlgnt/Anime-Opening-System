@@ -1,0 +1,170 @@
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm.resources
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\PC\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AnimeOpening.resources
+C:\Users\PC\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminControlPanel.resources
+C:\Users\PC\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminLoginPage.resources
+C:\Users\PC\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.RegistrationPage.resources
+C:\Users\PC\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ForgotPasswordPage.resources
+C:\Users\PC\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.VotingPage.resources
+C:\Users\PC\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.HomePage.resources
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminControlPanel.resources
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminLoginPage.resources
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AnimeOpening.resources
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm.resources
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.VotingPage.resources
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ForgotPassword.resources
+C:\Users\Windows 10\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SignupPage.resources
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Guna.UI.dll
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Guna.UI2.dll
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminControlPanel.resources
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminLoginPage.resources
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AnimeOpening.resources
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ForgotPassword.resources
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm.resources
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SignupPage.resources
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.VotingPage.resources
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CopyComplete
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\franc\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Guna.UI2.dll
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminControlPanel.resources
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminLoginPage.resources
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AnimeOpening.resources
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ForgotPassword.resources
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm.resources
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SignupPage.resources
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.VotingPage.resources
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\xx\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\Guna.UI2.dll
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminControlPanel.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminLoginPage.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AnimeOpening.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ForgotPassword.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SignupPage.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.VotingPage.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsA.EB57EBB5.Up2Date
+D:\Programs\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Programs\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Programs\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Programs\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Programs\WindowsApplication1\WindowsApplication1\bin\Debug\Guna.UI2.dll
+D:\Programs\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\Programs\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminControlPanel.resources
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminLoginPage.resources
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AnimeOpening.resources
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ForgotPassword.resources
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SignupPage.resources
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.VotingPage.resources
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsA.EB57EBB5.Up2Date
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Programs\Netflix2.0\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Programs\Netflix2.0\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Programs\Netflix2.0\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Programs\Netflix2.0\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Programs\Netflix2.0\WindowsApplication1\bin\Debug\Guna.UI2.dll
+D:\Programs\Netflix2.0\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\Programs\Netflix2.0\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.AdminControlPanel.resources
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.AdminLoginPage.resources
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.AnimeOpening.resources
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.ForgotPassword.resources
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.SignupPage.resources
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.VotingPage.resources
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsA.EB57EBB5.Up2Date
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Programs\Netflix2.0\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Programs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe.config
